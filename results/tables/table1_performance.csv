@@ -1,0 +1,8 @@
+Metric,Pre-RCX,Post-RCX,Unit
+Propagation Delay,21.29,21.34,ns
+Rise Time,45.6,47.0,ps
+Fall Time,50.47,49.0,ps
+Dynamic Power,2.052,2.167,μW
+Leakage Power,0.04,0.042,pA/transistor
+FOM,0.91,0.86,fJ
+FOM Normalized,26,27.7,×10^6

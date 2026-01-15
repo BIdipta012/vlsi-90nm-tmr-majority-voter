@@ -1,0 +1,5 @@
+This paper presents a full-custom 90 nm GPDK 14-transistor (14T) 
+Triple Modular Redundancy (TMR) majority voter exploiting velocity 
+saturation for minimum-width power optimization...
+
+[Copy your 189-word abstract here]

@@ -1,0 +1,6 @@
+W_eff (nm),Power (μW),Delay (ns),FOM (×10^6),Status
+190,2.052,21.29,26,OPTIMAL
+240,2.50,21.29,20.5,Baseline
+290,3.00,21.28,17.4,Saturation
+360,3.68,21.29,14.2,Wide
+480,4.84,21.29,10.8,Extra Wide

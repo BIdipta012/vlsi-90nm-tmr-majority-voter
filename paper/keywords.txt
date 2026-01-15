@@ -1,0 +1,2 @@
+90nm CMOS, Majority voter, TMR, Fault tolerance, Post-layout 
+simulation, RCX, FOM, GPDK090, Velocity saturation, DO-254
